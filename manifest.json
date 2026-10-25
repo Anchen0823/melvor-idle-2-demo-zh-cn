@@ -1,0 +1,13 @@
+{
+  "patch_version": "0.2.0",
+  "game_version": "0.11.2 alpha.4",
+  "steam_appid": 5373510,
+  "steam_buildid": 26074343,
+  "engine": "4.7.2.stable.mono.official.ed1daf0bf",
+  "original_sha256": "c7249cff551d5420b7b1dd31f138cb55517e71105dc0c53e5952352c8e9bb3e4",
+  "patched_sha256": "ad4b40dd2f4f05dc844be1c1fccd1c7df43df6d9086cf265a97f032eaee8678b",
+  "payload_sha256": "e5aaa28186be61ffbf0f53edf9a12556aa352d4234610c30fa02f4fbb07163f9",
+  "support_files": {
+    "data_GamesByMalcs.Melvor2_windows_x86_64/GamesByMalcs.Melvor2.dll": "7352a8b5fd7275a19908059398babcc643ce7e30a428e2633b936f9f191c0af5"
+  }
+}

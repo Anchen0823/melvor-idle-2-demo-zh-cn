@@ -1,0 +1,14 @@
+private/
+build/
+dist/
+__pycache__/
+*.pyc
+*.exe
+*.dll
+*.pck
+*.zip
+*.scn
+*.res
+*.po
+*.mo
+.godot/

@@ -1,0 +1,19 @@
+{
+  "On-Hit": "命中时",
+  "DoT": "持续伤害",
+  "Per-Stack": "每层",
+  "Username...": "用户名……",
+  "Password...": "密码……",
+  "ENTER": "回车键",
+  "TBC": "待定",
+  "Melvor Cloud": "Melvor 云端",
+  "Loading...": "正在加载……",
+  "Search...": "搜索……",
+  "hours": "小时",
+  "MSAA 2D": "2D 多重采样抗锯齿（MSAA）",
+  "[b]Waiting[/b]": "[b]等待中[/b]",
+  "Waiting...": "等待中……",
+  "VSync": "垂直同步",
+  "SPACEBAR": "空格键",
+  "Step 1 - Surveying\n[ul]Search the location to find the Animal’s tracks.[/ul]\n\nStep 2 - Tracking\n[ul]YFollow the tracks to locate the Animal.[/ul]\n\nStep 3 - Trapping\n[ul]Use your crafted Trap and attempt to catch it.\nFailing sends the Animal fleeing, returning you to Tracking.[/ul]": "第 1 步——勘察\n[ul]搜索当前地点，寻找动物的踪迹。[/ul]\n\n第 2 步——追踪\n[ul]沿着踪迹找到动物。[/ul]\n\n第 3 步——捕获\n[ul]使用你制作的陷阱，尝试捕获动物。\n捕获失败会使动物逃跑，你需要重新追踪。[/ul]"
+}
